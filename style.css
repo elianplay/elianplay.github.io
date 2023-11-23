@@ -1,0 +1,9 @@
+    .conteudo{
+        left: 0;
+        background: #9E9E9E;
+        width: 100px;
+        height: 100px;
+        position: fixed;
+        top: 0;
+        padding: 10px;
+    }
